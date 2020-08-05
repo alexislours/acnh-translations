@@ -1,2 +1,2 @@
 # ACNH Translations
-This repository contains all the raw string of Animal Crossing: New Horizons in all languages available. These strings are directly exported from MSBT to CSV without any modifications and as such still have some in game functions in them. Refer to this [spreadsheet](https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit?usp=sharing) if you want a cleaned up version of these strings.
+Won't be maintained, see https://github.com/alexislours/acnh-message for an updated version.
